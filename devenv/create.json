@@ -1,0 +1,8 @@
+{
+    "provider_url": "http://localhost:8545",
+    "abi_file": "./build/SangoPKSystem/SangoPKSystem.abi",
+    "bytecode_file": "./build/SangoPKSystem/SangoPKSystem.bin",
+    "owner_addr": "0xda83aee0f49802a331d455f503341a5fdcbde923",
+    "gas": 4500000,
+    "gasPrice": 1e+9
+}

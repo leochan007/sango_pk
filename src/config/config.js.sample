@@ -1,0 +1,5 @@
+const config = {
+    "contract_addr": "0x5c719fa24df2dcd9eb45a0b847be11bf4185d8ac"
+}
+
+export default config;
